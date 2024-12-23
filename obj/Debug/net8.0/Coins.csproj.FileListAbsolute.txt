@@ -1,0 +1,15 @@
+E:\dev\Coins\bin\Debug\net8.0\Coins.exe
+E:\dev\Coins\bin\Debug\net8.0\Coins.deps.json
+E:\dev\Coins\bin\Debug\net8.0\Coins.runtimeconfig.json
+E:\dev\Coins\bin\Debug\net8.0\Coins.dll
+E:\dev\Coins\bin\Debug\net8.0\Coins.pdb
+E:\dev\Coins\obj\Debug\net8.0\Coins.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev\Coins\obj\Debug\net8.0\Coins.AssemblyInfoInputs.cache
+E:\dev\Coins\obj\Debug\net8.0\Coins.AssemblyInfo.cs
+E:\dev\Coins\obj\Debug\net8.0\Coins.csproj.CoreCompileInputs.cache
+E:\dev\Coins\obj\Debug\net8.0\Coins.sourcelink.json
+E:\dev\Coins\obj\Debug\net8.0\Coins.dll
+E:\dev\Coins\obj\Debug\net8.0\refint\Coins.dll
+E:\dev\Coins\obj\Debug\net8.0\Coins.pdb
+E:\dev\Coins\obj\Debug\net8.0\Coins.genruntimeconfig.cache
+E:\dev\Coins\obj\Debug\net8.0\ref\Coins.dll
